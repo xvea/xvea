@@ -1,1 +1,4 @@
-<h1 align="center">Hi, I'm Surya Pradipta</h1>
+- Name: Surya Pradipta
+- Age: 16
+- Pronouns: he/him
+- Email: <a href="mailto:ayaka@yuu.re">ayaka@yuu.re</h1>

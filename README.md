@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/7VuWl3sZD7wAAAAC/visual-novel-eroge.gif">
+![Alt Text](https://media.tenor.com/7VuWl3sZD7wAAAAC/visual-novel-eroge.gif)
 
 ---
 

@@ -4,6 +4,6 @@
 - Email: <a href="mailto:ayaka@yuu.re">ayaka@yuu.re</h1>
 - I’m currently learning NodeJS
 
---
+---
 
-[![](https://github-readme-stats.vercel.app/api?username=arnlea&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/arnlea)
+[![](https://github-readme-stats.vercel.app/api?username=arnlea&show_icons=true&theme=tokyonight&locale=en)](https://github.com/arnlea)

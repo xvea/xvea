@@ -1,7 +1,11 @@
+<img src="https://media.tenor.com/7VuWl3sZD7wAAAAC/visual-novel-eroge.gif">
+
+---
+
 - Name: Surya Pradipta
 - Age: 16
 - Pronouns: he/him
-- Learning:  I’m currently learning **NodeJS**
+- Learning:  **NodeJS**
 - Email: <a href="mailto:ayaka@yuu.re">ayaka@yuu.re</h1>
 
 ---

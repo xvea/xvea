@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Surya<h1>
 
+
 - 🌱 I’m currently learning NodeJS, PHP
-- 📫 How to reach me <a href="mailto:i@yuu.re">i@yuu.re
+- 📫 How to reach me **i@yuu.re**
 
 ---
 

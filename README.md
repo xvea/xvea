@@ -1,14 +1,13 @@
-- Name: Surya Pradipta
-- Age: 16
-- Pronouns: he/him
-- Learning:  **NodeJS**
-- Email: <a href="mailto:ayaka@yuu.re">ayaka@yuu.re</h1>
+<h1 align="center">Hi, I'm Surya<h1>
 
----
+- 🌱 I’m currently learning NodeJS, PHP
+- 📫 How to reach me <a href="mailto:i@yuu.re">i@yuu.re<\a>
+
+----
 
 <h2 align="center">Github stats:</h2>
 
-[![](https://github-readme-stats.vercel.app/api?username=arnlea&show_icons=true&theme=tokyonight&locale=en)](https://github.com/arnlea)
+[![](https://github-readme-stats.vercel.app/api?username=arnlea&show_icons=true&count_private=true&theme=tokyonight&locale=en)](https://github.com/arnlea)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnlea&layout=compact&theme=tokyonight)](https://github.com/arnlea/arnlea)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnlea&layout=compact&count_private=true&theme=tokyonight)](https://github.com/arnlea/arnlea)
 

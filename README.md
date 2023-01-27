@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning NodeJS, PHP
 - 📫 How to reach me **i@yuu.re**
 
----
 
 <h2 align="center">Github stats:</h2>
 

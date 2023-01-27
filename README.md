@@ -1,9 +1,8 @@
-<h1 align="center">Hi, I'm Surya<h1>
-
+<h1 align="center">Hi 👋🏻, I'm Surya</h1>
+<p align="center"><img src="https://media.tenor.com/7VuWl3sZD7wAAAAd/visual-novel-eroge.gif"/></p>
 
 - 🌱 I’m currently learning NodeJS, PHP
 - 📫 How to reach me **i@yuu.re**
-
 
 <h2 align="center">Github stats:</h2>
 
